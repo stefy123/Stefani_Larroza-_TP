@@ -1,0 +1,45 @@
+body{
+	background-image: url(fondo.png);
+	margin: 50px;
+	background-repeat: no-repeat;
+	background-position: top;
+	font-size: 16px;
+	background-size: 100%;
+}
+h3{
+	font-size: 1.5em;
+	font-family: 'Calligranffitti', cursive;
+}
+
+h1{
+	font-family: 'Convered By Your Grace', cursive;
+}
+
+#well{
+	font-family: 'Indie Flower',cursive;
+}
+
+#A{
+	background-color: lightgrey;
+	font-family: 'Indie Flower',cursive;
+
+}
+
+
+#C{
+	background-color: lightgrey;
+	font-family: 'Indie Flower',cursive;
+
+
+}
+#E{
+	background-color:  lightgrey;
+	font-family: 'Indie Flower',cursive;
+
+
+}
+#well{
+	background-color:  lightgrey;
+	font-family: 'Indie Flower',cursive;
+	
+}
